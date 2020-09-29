@@ -1,5 +1,5 @@
 ## Paint2D
-**Projeto de Computação Gráfica**
+**Projeto de Computação Gráfica**\
 Alunos: Jennifer Calazans, Kilson Gomes e Luiz Otávio
 
 1. O sistema deve ser capaz de exibir triângulos, quadriláteros e polígonos (N lados) definidos pelo usuário:
