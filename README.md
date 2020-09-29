@@ -1,4 +1,4 @@
-# Paint2D
+## Paint2D
 Projeto de Computação Gráfica
 Alunos: Jennifer Calazans, Kilson Gomes e Luiz Otávio
 
