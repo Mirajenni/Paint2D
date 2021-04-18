@@ -1,5 +1,5 @@
 ## Paint2D
-**Projeto de Computação Gráfica**\
+**Projeto de Computação Gráfica com OpenGL**\
 Alunos: Jennifer Calazans, Kilson Gomes e Luiz Otávio
 >Version: QtCreator 3.4.1
 1. O sistema deve ser capaz de exibir triângulos, quadriláteros e polígonos (N lados) definidos pelo usuário:
